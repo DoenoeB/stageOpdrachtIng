@@ -56,6 +56,8 @@ public class Zoo {
         } else if (input.equals(commands[3])) {
             dora.performTrick();
             wally.performTrick();
+            dennis.performTrick();
+            babs.performTrick();
         } else if (input.equals(commands[0] + " henk")) {
             henk.sayHello();
         } else if (input.equals(commands[0] + " elsa")) {
